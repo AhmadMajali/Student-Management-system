@@ -1,7 +1,6 @@
 def AddStudent():
     """Adds a new student (Name, Age, and Grade)"""
     
-    #temp cahnge to force git to update 
     try: 
         with open('students.txt', 'a') as f:
             name = input('Name: ')
