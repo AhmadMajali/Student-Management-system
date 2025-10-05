@@ -16,6 +16,7 @@ A simple Python console application to manage student records stored in a text f
 1. Clone this repository:
    ```bash
    git clone https://github.com/AhmadMajali/student-management-system.git
-   cd student-management
+   cd student-management-system
+
 
 
